@@ -25,6 +25,5 @@
 /.nb-gradle/
 
 /static-files/
-/README.md/
-/upgrade.md/
 /target/
+*.md
